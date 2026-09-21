@@ -1,11 +1,23 @@
 ![Banner Rayfel](Banner.png)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&width=435&lines=Hola%2C+soy+Rayfel+Ogando;%7C+Desarrollador+Web+%26+M%C3%B3vil+%7C;%7C+SQL%2C+No-SQL%2C+Angular%2C+React%2C+.NET+%7C)](https://git.io/typing-svg)
+
+<p align="center">
+  <a href="https://www.rayfelo.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-rayfelo.dev-61DAFB?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=20232a" alt="Portafolio" />
+  </a>
+  &nbsp;
+  <a href="https://www.rayfelo.dev/Rayfel_Jhonsel_Ogando_Soler_CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Curr%C3%ADculum_Vitae-Ver_CV-61DAFB?style=for-the-badge&logo=googledocs&logoColor=white&labelColor=20232a" alt="Currículum Vitae" />
+  </a>
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RayfelO&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-stats-extended.vercel.app/api?username=RayfelO&show_icons=true&theme=react&hide_border=true&locale=es" height="165" alt="Estadísticas de GitHub" />
+  <img src="https://streak-stats.demolab.com/?user=RayfelO&theme=react&hide_border=true&locale=es" height="165" alt="Racha de GitHub" />
 </p>
 
 ---
